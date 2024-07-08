@@ -1,4 +1,8 @@
+html{
+    font-family:sans-serif;
+}
 body{
     font-family:Verdena;
     font-size: 2em;
+    text-align: center;
 }
